@@ -1,6 +1,6 @@
 # Super-Mario-
-Terminal based Mario game using python
-#Requirments mentioned in Requirements.txt
+Terminal based Mario game using python.
+<br>Requirments mentioned in Requirements.txt
 ## Run:Python3 level2.py
 
 ### controls:
