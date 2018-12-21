@@ -1,6 +1,6 @@
 # Super-Mario-
 Terminal based Mario game using python
-Requirments mentioned in Requirements.txt
+#Requirments mentioned in Requirements.txt
 ## Run:Python3 level2.py
 
 ### controls:
@@ -29,7 +29,7 @@ living
 <br>|__goomba
 <br>|__coin_bricks
 
-#### Bonus:
+#### Extras:
 1. Different colors for various objects using colorama.
 2. Different sounds for various movements/actions of mario.
 3. Enemies with different speeds.
