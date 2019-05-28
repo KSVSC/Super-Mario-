@@ -1,4 +1,4 @@
-# Super-Mario
+# SuperMario
 Terminal based Mario game using python.
 <br>Requirments mentioned in Requirements.txt
 ## Run:Python3 level2.py
