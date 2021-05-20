@@ -1,5 +1,5 @@
 # SuperMario
-This is a terminal based Mario game implemented using python. The Libraries used can be found in [Requirements.txt](../master/Requirements.txt)
+This is a terminal based Mario game implemented using python. The Libraries used can be found in [Requirements.txt](../master/requirements.txt)
 ![Screenshot](demo.png)
 ## Usage
 `Python3 level2.py`
